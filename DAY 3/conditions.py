@@ -4,7 +4,7 @@
 # 2.if else statement
 # 3.if elif else statement 
 
-
+#this is condition
 
 
 '''IF STATEMENT'''

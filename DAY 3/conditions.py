@@ -4,9 +4,6 @@
 # 2.if else statement
 # 3.if elif else statement 
 
-#this is condition
-
-
 '''IF STATEMENT'''
 a=int(input("Enter the value:"))
 if a % 2 == 0:

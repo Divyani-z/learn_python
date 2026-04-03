@@ -7,13 +7,13 @@
 # define function
 # call function
 
-# def simplefunction():
-#     print("Hello Divyani Zade")
-# simplefunction()
+def simplefunction():
+    print("Hello Divyani Zade")
+simplefunction()
 
-# def sumdata(a=10,b=10):
-#     print(a+b)
-# sumdata()
+def sumdata(a=10,b=10):
+    print(a+b)
+sumdata()
 
 # Return function
 def showdata(a):
